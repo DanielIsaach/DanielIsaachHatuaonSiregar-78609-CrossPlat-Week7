@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Eugene Crab",
+    "email": "Crab@gmail.com",
+    "photo_url": "Crab.png"
+  },
+  {
+    "name": "Patrick Star",
+    "email": "Patrick@gmail.com",
+    "photo_url": "Pat.png"
+  },
+  {
+    "name": "Plankton",
+    "email": "Plankton@gmail.com",
+    "photo_url": "Plank.png"
+  },
+  {
+    "name": "Sandy",
+    "email": "Sandy@gmail.com",
+    "photo_url": "Sandy.png"
+  },
+  {
+    "name": "Spongebob",
+    "email": "Spongebob@gmail.com",
+    "photo_url": "sponge.png"
+  },
+  {
+    "name": "Squidward",
+    "email": "Squid@gmail.com",
+    "photo_url": "Squid.png"
+  },
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/1.jpg",
+    "bio": "Pengusaha muda yang fokus pada teknologi dan inovasi digital."
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/1.jpg",
+    "bio": "Suka dengan seni dan desain grafis. Memiliki minat dalam dunia pemasaran digital."
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/women/2.jpg",
+    "bio": "Mahasiswa yang aktif di bidang pendidikan dan pengembangan diri."
+  },
+  {
+    "name": "Bob Brown",
+    "email": "bobbrown@example.com",
+    "photo_url": "https://randomuser.me/api/portraits/men/2.jpg",
+    "bio": "Penyuka teknologi dan gadget terbaru. Fokus pada pengembangan aplikasi mobile."
+  }
+]
